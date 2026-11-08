@@ -1,0 +1,6 @@
+**/.env
+**/profiles/
+**/exports/
+**/__pycache__/
+*.pyc
+*.log
